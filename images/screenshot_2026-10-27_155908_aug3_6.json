@@ -1,0 +1,71 @@
+{
+  "version": "4.2.1",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "review_status": "pending",
+      "label": "pokypki",
+      "score": null,
+      "points": [
+        [
+          286.79104477611946,
+          488.65671641791045
+        ],
+        [
+          428.58208955223887,
+          488.65671641791045
+        ],
+        [
+          428.58208955223887,
+          560.2985074626865
+        ],
+        [
+          286.79104477611946,
+          560.2985074626865
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "review_status": "pending",
+      "label": "game",
+      "score": null,
+      "points": [
+        [
+          81.56716417910451,
+          531.9402985074627
+        ],
+        [
+          183.80597014925377,
+          531.9402985074627
+        ],
+        [
+          183.80597014925377,
+          617.7611940298507
+        ],
+        [
+          81.56716417910451,
+          617.7611940298507
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "screenshot_2026-10-27_155908_aug3_6.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640
+}

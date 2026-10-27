@@ -1,0 +1,98 @@
+{
+  "version": "4.2.1",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "game",
+      "score": 0.9417973756790161,
+      "points": [
+        [
+          382.948974609375,
+          1.2293930053710938
+        ],
+        [
+          642.3233642578125,
+          1.2293930053710938
+        ],
+        [
+          642.3233642578125,
+          249.48896026611328
+        ],
+        [
+          382.948974609375,
+          249.48896026611328
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "pokypki",
+      "score": 0.8497173190116882,
+      "points": [
+        [
+          167.67173767089844,
+          1436.3349609375
+        ],
+        [
+          585.2525024414062,
+          1436.3349609375
+        ],
+        [
+          585.2525024414062,
+          1824.547119140625
+        ],
+        [
+          167.67173767089844,
+          1824.547119140625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "game",
+      "score": 0.7259241938591003,
+      "points": [
+        [
+          903.2095642089844,
+          1846.6576538085938
+        ],
+        [
+          1052.7029113769531,
+          1846.6576538085938
+        ],
+        [
+          1052.7029113769531,
+          1919.3783569335938
+        ],
+        [
+          903.2095642089844,
+          1919.3783569335938
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "screenshot_2026-10-27_160030_aug2_22.jpg",
+  "imageData": null,
+  "imageHeight": 1920,
+  "imageWidth": 1080
+}

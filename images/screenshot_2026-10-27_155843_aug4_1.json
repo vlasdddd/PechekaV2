@@ -1,0 +1,100 @@
+{
+  "version": "4.2.1",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "game",
+      "score": 0.8488043546676636,
+      "points": [
+        [
+          313.41424560546875,
+          233.7456512451172
+        ],
+        [
+          406.45684814453125,
+          233.7456512451172
+        ],
+        [
+          406.45684814453125,
+          368.92742919921875
+        ],
+        [
+          313.41424560546875,
+          368.92742919921875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "game",
+      "score": 0.3049037456512451,
+      "points": [
+        [
+          44.279029846191406,
+          502.2843017578125
+        ],
+        [
+          85.20694732666016,
+          502.2843017578125
+        ],
+        [
+          85.20694732666016,
+          553.1668701171875
+        ],
+        [
+          44.279029846191406,
+          553.1668701171875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "review_status": "pending",
+      "label": "pokypki",
+      "score": null,
+      "points": [
+        [
+          69.62686567164184,
+          188.65671641791045
+        ],
+        [
+          200.9701492537314,
+          188.65671641791045
+        ],
+        [
+          200.9701492537314,
+          264.77611940298505
+        ],
+        [
+          69.62686567164184,
+          264.77611940298505
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "screenshot_2026-10-27_155843_aug4_1.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640,
+  "description": ""
+}

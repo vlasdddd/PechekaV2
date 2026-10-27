@@ -1,0 +1,41 @@
+{
+  "version": "4.2.1",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "review_status": "pending",
+      "label": "pokypki",
+      "score": null,
+      "points": [
+        [
+          142.7611940298508,
+          392.3880597014925
+        ],
+        [
+          238.28358208955223,
+          392.3880597014925
+        ],
+        [
+          238.28358208955223,
+          558.8059701492537
+        ],
+        [
+          142.7611940298508,
+          558.8059701492537
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "screenshot_2026-10-27_155939_aug3_12.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640
+}
